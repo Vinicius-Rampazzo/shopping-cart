@@ -1,3 +1,7 @@
+body {
+  background-color: #ffdb15;
+}
+
 .container {
   display: flex;
   justify-content: space-around;
